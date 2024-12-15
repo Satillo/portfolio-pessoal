@@ -1,0 +1,105 @@
+/* Limpando formatação*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Formatação base */
+body{ 
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(0, 0, 0) ;
+    
+    
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgba(23, 23, 24, 0.76) ;
+} 
+
+h2, p{
+    color: rgb(182, 182, 182);
+}
+
+
+/* Topo do site */
+
+#logo, #menu{
+    padding: 10px;
+    
+}
+
+#header, a:link{
+    background-color:rgb(163, 66, 2);
+    padding: 5px;
+    text-align: center;
+}
+
+a:hover{
+    color: rgb(182, 182, 182);
+    background: rgb(0, 0, 0);
+}
+
+#menu{
+    padding: 50px
+}
+
+/* Conteudo do site*/
+#content{
+    background-color:rgba(26, 24, 27, 0.76) ;
+    width: 920px;
+    margin: auto;
+    padding: 50px;
+}
+
+#post{
+    padding: 20px;
+    margin-bottom: 20;
+    text-align: justify;
+}
+
+.img-post{
+    margin-bottom: 40px;
+    width: 880px;
+}
+
+
+/*Formatação dos links*/
+
+a{
+    text-align: none;
+}
+
+a:visited{
+    color: rgb(182, 182, 182);
+}
+
+/* Footer*/
+#footer{
+    clear: both;
+    text-align: center;
+    padding: 10px;
+    background: rgb(163, 66, 2);
+    color: rgb(182, 182, 182);
+}
+
+
+/*Página formação*/
+
+ul{
+    color: rgb(182, 182, 182);
+}
+
+
+/* Página contato*/
+
+form{
+    color: rgb(182, 182, 182);
+}
+
+/* Página Portfólio*/
+#
+
+
